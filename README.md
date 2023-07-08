@@ -20,3 +20,6 @@ NOTE: If you do not provide the directory containing the objects names to fix yo
 3. Provide a STRING of characters to search for within the Title Name of the files at the Parent and Child levels.
 
 -> Follow the Prompts. 
+
+BINARY
+If you prefer to use the binary it has been included. Simply add to your preferred bin directory
